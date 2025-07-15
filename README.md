@@ -18,7 +18,7 @@
 
 ## screenshot
     ![website screenshot](./img/web1.png)
-    ![website screenshot](./img/web2.png)
+    ![website screenshot]([./img/web2.png](https://github.com/sondos-28/Day-7-Task---Mini-Website/blob/master/web2.png?raw=true))
 
 ---------------------------------
 
